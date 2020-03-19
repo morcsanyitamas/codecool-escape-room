@@ -1,0 +1,1 @@
+mcs -out:checker.exe checker.cs
