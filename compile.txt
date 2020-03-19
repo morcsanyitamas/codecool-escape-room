@@ -1,1 +1,2 @@
 mcs -out:checker.exe checker.cs
+mono checker.exe
